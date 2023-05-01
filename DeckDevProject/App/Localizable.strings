@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  DeckDevProject
+
+  Created by Ilnur Mindubayev on 01.05.2023.
+  
+*/
+
+// MARK: - AppDelegate
+
+"mockNotificationId" = "notification";
+"mockNotificationTitle" = "Hello!";
+"mockNotificationBody" = "List of players has been updated";
+"categoryIdentifier" = "categoryIdentifier";
+"tableNeedsUpdate" = "tableNeedsUpdate";
+
+// MARK: - MainViewController
+
+
